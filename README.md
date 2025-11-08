@@ -41,11 +41,13 @@ system_maintenance_suite/
    unzip system_maintenance_suite.zip
    cd system_maintenance_suite
 
-2. **Make scripts executable** 
+2. **Make scripts executable**
+   ```bash
     chmod +x *.sh
 
 
 4. **Run the main maintenance suite** 
+   ```bash
    ./maintenance_suite.sh
 
 
