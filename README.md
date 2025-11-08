@@ -17,11 +17,11 @@ The suite includes individual scripts for:
 ## 📂 Project Structure
 system_maintenance_suite/
 │
-├── backup.sh # Automates document backup
-├── update_cleanup.sh # Updates system and removes unnecessary packages
-├── log_monitor.sh # Scans system logs for errors or warnings
-├── maintenance_suite.sh # Menu-driven interface to run all scripts
-└── README.md # Project documentation
+├── backup.sh # Automates document backup 
+├── update_cleanup.sh # Updates system and removes unnecessary packages 
+├── log_monitor.sh # Scans system logs for errors or warnings 
+├── maintenance_suite.sh # Menu-driven interface to run all scripts 
+└── README.md # Project documentation 
 
 
 ---
