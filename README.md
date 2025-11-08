@@ -16,6 +16,7 @@ The suite includes individual scripts for:
 
 ## 📂 Project Structure
 system_maintenance_suite/
+
 │
 
 ├── backup.sh # Automates document backup 
