@@ -41,17 +41,21 @@ system_maintenance_suite/
    unzip system_maintenance_suite.zip
    cd system_maintenance_suite
 
-2. **Make scripts executable**
+2. **Make scripts executable** 
     chmod +x *.sh
 
 
-3. **Run the main maintenance suite**
+4. **Run the main maintenance suite** 
    ./maintenance_suite.sh
 
 
 ## Day-wise Tasks:
 Day 1: Write a script for automated system backups. //backup.sh
+
 Day 2: Create a script to perform system updates and clean up. //update_cleanup.sh
+
 Day 3: Develop a log monitoring script to alert on certain conditions. //log_monitor.sh
+
 Day 4: Combine scripts into a maintenance suite with a menu to execute them. //maintenance_suite.sh
+
 Day 5: Test scripts and add error handling and logging functionalities.
