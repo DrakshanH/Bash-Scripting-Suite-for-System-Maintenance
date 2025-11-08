@@ -45,11 +45,9 @@ system_maintenance_suite/
    ```bash
     chmod +x *.sh
 
-
 4. **Run the main maintenance suite** 
    ```bash
    ./maintenance_suite.sh
-
 
 ## Day-wise Tasks:
 Day 1: Write a script for automated system backups. //backup.sh
